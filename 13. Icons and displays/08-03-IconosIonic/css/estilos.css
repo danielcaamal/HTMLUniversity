@@ -1,0 +1,20 @@
+h1 {
+  text-align: center;
+  color: crimson;
+}
+div {
+  padding: 15px;
+  margin: auto;
+  max-width: 400px;
+  vertical-align: middle;
+}
+.azul_mediano{
+    font-size: 30px;
+    color: blueviolet;
+    vertical-align: middle;
+}
+.rojo_grande{
+    font-size: 50px;
+    color:crimson;
+    vertical-align: middle;
+}

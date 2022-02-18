@@ -1,7 +1,4 @@
-html {
-    margin: 0px;
-    padding: 0px;
-}
+
 
 body {
     margin: 0px;
@@ -11,9 +8,30 @@ body {
 header {
     margin: 0px;
     padding: 0px;
+    text-align: center;
 }
 
+#title {
+    padding: 10px 15px 5px 3px;
+    margin: 0 auto;
+    background-color:blueviolet;
+    max-width: 300px;
+    box-sizing: border-box;
+    color: white;
+}
 
 ol {
     font-size: 20px;
+}
+
+.basics {
+    display: block;
+}
+
+.basics div{
+    display: inline;
+    background-color: red;
+    text-align: center;
+    color: white;
+    padding: 10px;
 }
